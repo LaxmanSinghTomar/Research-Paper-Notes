@@ -11,3 +11,8 @@ Research Papers/Manuscripts are amazing pieces of art reflecting efforts done by
 3. Distributed Representations of Sentences and Documents, Google [[Notes]](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Doc2Vec.pdf)
 
 4. Enriching Word Vectors with Subword Information, Facebook [[Notes]](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Fasttext.pdf)
+
+
+## Generative Adversarial Networks(GANs) Papers
+
+1. SinGAN: Learning a Generative Model from a Single Natural Image, Technion & Google. [[Notes]](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/SinGANs.pdf)
