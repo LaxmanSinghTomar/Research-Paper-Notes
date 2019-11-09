@@ -7,3 +7,5 @@
 3. [Distributed Representations of Sentences and Documents, Google](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Doc2Vec.pdf)
 
 4. [Enriching Word Vectors with Subword Information, Facebook](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Fasttext.pdf)
+
+5. [Sequence to Sequence Learningwith Neural Networks](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Seq2Seq.pdf)
