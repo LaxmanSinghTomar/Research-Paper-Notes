@@ -12,6 +12,7 @@ Research Papers/Manuscripts are amazing pieces of art reflecting efforts done by
 
 4. Enriching Word Vectors with Subword Information, Facebook [[Notes]](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Fasttext.pdf)
 
+5. [Sequence to Sequence Learning with Neural Networks, Google](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Seq2Seq.pdf)
 
 ## Generative Adversarial Networks(GANs) Papers
 
