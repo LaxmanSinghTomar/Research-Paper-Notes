@@ -8,4 +8,4 @@
 
 4. [Enriching Word Vectors with Subword Information, Facebook](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Fasttext.pdf)
 
-5. [Sequence to Sequence Learningwith Neural Networks](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Seq2Seq.pdf)
+5. [Sequence to Sequence Learning with Neural Networks, Google](https://github.com/LaxmanSinghTomar/Research-Paper-Notes/blob/master/NLP/Seq2Seq.pdf)
